@@ -1,0 +1,19 @@
+Here are the details of the project:
+
+- There are 5 components in total, including responsive design.
+- Figma files are attached for reference, along with desktop and mobile design JPGs.
+
+1. **Get Your Card Digitally**
+   - Static section divided into 2 columns. Use any YouTube video for the right column.
+
+2. **Everything is Digital Now**
+   - 2-column section: left side shows a mobile image, right side has HTML content with progress steps.
+
+3. **Credit Card Service**
+   - Static card using a dummy icon.
+
+4. **Mastering Credit Cards**
+   - 2-column layout with a dummy icon.
+
+5. **Unlearn**
+   - Thumbnail cards that convert into a carousel on mobile devices.
